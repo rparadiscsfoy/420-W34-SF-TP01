@@ -36,25 +36,25 @@ Votre analyste vous a indiqué que deux informations ne sont pas forcément rens
 
 ## 3 - À réaliser
 
-- Modifier le fichier AUTHORS.md
-- Ajouter les clefs primaires / étrangères
-- Justifier, en commentaires, le type de clefs que vous avez choisi
-- Ajouter des index où cela est approprié
-- Déduire les types de données
-- Script SQL permettant d'implanter l'ERD
-- Créer des données de test
+- Modifier le fichier AUTHORS.md (-10 points si non fait)
+- Ajouter les clefs primaires / étrangères (5 points)
+- Justifier, en commentaires, le type de clefs que vous avez choisi (5 points)
+- Ajouter des index où cela est approprié (5 points)
+- Déduire les types de données (5 points)
+- Script SQL permettant d'implanter l'ERD (10 points)
+- Créer des données de test (10 points)
 - Écrire les requêtes suivantes :
-  - Afficher l'ensemble des vols disponibles pour chaque compagnie aérienne
-  - Afficher l'ensemble des vols qui n'ont pas eu d'occurrence depuis plus de 60 jours
-  - Afficher le nombre de voyageurs pour un vol
-  - Afficher les étapes d'un voyage pour un client
-  - Afficher les étapes de voyage pour un client avec une numérotation des étapes dans l'ordre et l'addition des durées estimées à la fin de l'étape courante
-  - Afficher le voyage le plus long pour le mois courant
-  - Afficher la liste des voyages pour la journée courante
-  - Afficher le nombre de voyages pour la journée courante
-  - Afficher les voyages non terminés
-  - Afficher le nombre de voyageurs ayant un et un seul voyage intérieur (Donc une étape) pour une date précise (année, mois et jour)
-  - Afficher les pays par ordre descendant du nombre d'aéroports
+  - Afficher l'ensemble des vols disponibles pour chaque compagnie aérienne (5 points)
+  - Afficher l'ensemble des vols qui n'ont pas eu d'occurrence depuis plus de 60 jours (5 points)
+  - Afficher le nombre de voyageurs pour un vol donné (5 points)
+  - Afficher les étapes d'un voyage pour un client donné (5 points)
+  - Afficher les étapes de voyage pour un client avec une numérotation des étapes dans l'ordre et l'addition des durées estimées à la fin de l'étape courante (10 points)
+  - Afficher le voyage le plus long pour le mois courant (5 points)
+  - Afficher la liste des voyages pour la journée courante (5 points)
+  - Afficher le nombre de voyages pour la journée courante (5 points)
+  - Afficher les voyages non terminés (5 points)
+  - Afficher le nombre de voyageurs ayant un et un seul voyage intérieur (Donc une étape) pour une date précise (année, mois et jour) (5 points)
+  - Afficher les pays par ordre descendant du nombre d'aéroports (5 points)
 
 ## 4 - Contraintes
 
