@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="558px" preserveAspectRatio="none" style="width:768px;height:558px;background:#FFFFFF;" version="1.1" viewBox="0 0 768 558" width="768px" zoomAndPan="magnify"><defs/><g><!--MD5=[aa2bb12b1d34009d39b42a242f861e93]
+class Pays--><g id="elem_Pays"><rect codeLine="2" fill="#F1F1F1" height="80.9766" id="Pays" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="103" x="7" y="438"/><ellipse cx="40.45" cy="454" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M44.0643,460.5 L36.3445,460.5 L36.3445,448.1069 L44.0643,448.1069 L44.0643,450.2651 L38.7933,450.2651 L38.7933,452.938 L43.5662,452.938 L43.5662,455.0962 L38.7933,455.0962 L38.7933,458.3418 L44.0643,458.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="58.55" y="459.291">Pays</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="109" y1="470" y2="470"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="13" y="487.5352">codeISO</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="13" y="504.0234">descriptionFr</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="109" y1="510.9766" y2="510.9766"/></g><!--MD5=[93e6ce547ff226cccf2c6dd7385ec68f]
+class Aeroport--><g id="elem_Aeroport"><rect codeLine="7" fill="#F1F1F1" height="113.9531" id="Aeroport" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="23.5" y="206"/><ellipse cx="38.5" cy="222" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M42.1143,228.5 L34.3945,228.5 L34.3945,216.1069 L42.1143,216.1069 L42.1143,218.2651 L36.8433,218.2651 L36.8433,220.938 L41.6162,220.938 L41.6162,223.0962 L36.8433,223.0962 L36.8433,226.3418 L42.1143,226.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="52.5" y="227.291">Aeroport</text><line style="stroke:#181818;stroke-width:0.5;" x1="24.5" x2="116.5" y1="238" y2="238"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="29.5" y="255.5352">code</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="29.5" y="272.0234">nom</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="29.5" y="288.5117">ville</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="29.5" y="305">pays</text><line style="stroke:#181818;stroke-width:0.5;" x1="24.5" x2="116.5" y1="311.9531" y2="311.9531"/></g><!--MD5=[441ae960a862e573906b3bd2852bbbcc]
+class OccurrenceVol--><g id="elem_OccurrenceVol"><rect codeLine="14" fill="#F1F1F1" height="113.9531" id="OccurrenceVol" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="137" x="371" y="206"/><ellipse cx="388.25" cy="222" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M391.8643,228.5 L384.1445,228.5 L384.1445,216.1069 L391.8643,216.1069 L391.8643,218.2651 L386.5933,218.2651 L386.5933,220.938 L391.3662,220.938 L391.3662,223.0962 L386.5933,223.0962 L386.5933,226.3418 L391.8643,226.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="402.75" y="227.291">OccurrenceVol</text><line style="stroke:#181818;stroke-width:0.5;" x1="372" x2="507" y1="238" y2="238"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="377" y="255.5352">dateDepartPrevue</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="377" y="272.0234">dateArriveePrevue</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="377" y="288.5117">dateDepartReelle</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="377" y="305">dateArriveeReelle</text><line style="stroke:#181818;stroke-width:0.5;" x1="372" x2="507" y1="311.9531" y2="311.9531"/></g><!--MD5=[faefaeeaeee21baa303d48d30d35547c]
+class Vol--><g id="elem_Vol"><rect codeLine="21" fill="#F1F1F1" height="113.9531" id="Vol" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="121" x="113" y="7"/><ellipse cx="158.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M161.8643,29.5 L154.1445,29.5 L154.1445,17.1069 L161.8643,17.1069 L161.8643,19.2651 L156.5933,19.2651 L156.5933,21.938 L161.3662,21.938 L161.3662,24.0962 L156.5933,24.0962 L156.5933,27.3418 L161.8643,27.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="22" x="178.75" y="28.291">Vol</text><line style="stroke:#181818;stroke-width:0.5;" x1="114" x2="233" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="119" y="56.5352">numero</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="119" y="73.0234">dureeMoyenne</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="119" y="89.5117">aeroportDepart</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="119" y="106">aeroportArrivee</text><line style="stroke:#181818;stroke-width:0.5;" x1="114" x2="233" y1="112.9531" y2="112.9531"/></g><!--MD5=[7c8ba23bb7be92d44dd1be9ab48aedaf]
+class DonneesTranspondeur--><g id="elem_DonneesTranspondeur"><rect codeLine="28" fill="#F1F1F1" height="80.9766" id="DonneesTranspondeur" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="190" x="344.5" y="438"/><ellipse cx="359.5" cy="454" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M363.1143,460.5 L355.3945,460.5 L355.3945,448.1069 L363.1143,448.1069 L363.1143,450.2651 L357.8433,450.2651 L357.8433,452.938 L362.6162,452.938 L362.6162,455.0962 L357.8433,455.0962 L357.8433,458.3418 L363.1143,458.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="373.5" y="459.291">DonneesTranspondeur</text><line style="stroke:#181818;stroke-width:0.5;" x1="345.5" x2="533.5" y1="470" y2="470"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="350.5" y="487.5352">date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="350.5" y="504.0234">coordonnees</text><line style="stroke:#181818;stroke-width:0.5;" x1="345.5" x2="533.5" y1="510.9766" y2="510.9766"/></g><!--MD5=[01f9a401cf506495089c678bd476f389]
+class Avion--><g id="elem_Avion"><rect codeLine="33" fill="#F1F1F1" height="130.4414" id="Avion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="173.5" y="198"/><ellipse cx="205.15" cy="214" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M208.7643,220.5 L201.0445,220.5 L201.0445,208.1069 L208.7643,208.1069 L208.7643,210.2651 L203.4933,210.2651 L203.4933,212.938 L208.2662,212.938 L208.2662,215.0962 L203.4933,215.0962 L203.4933,218.3418 L208.7643,218.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="222.85" y="219.291">Avion</text><line style="stroke:#181818;stroke-width:0.5;" x1="174.5" x2="280.5" y1="230" y2="230"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="179.5" y="247.5352">marque</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="179.5" y="264.0234">numero</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="179.5" y="280.5117">type</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="179.5" y="297">nombrePlaces</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="179.5" y="313.4883">dateAchat</text><line style="stroke:#181818;stroke-width:0.5;" x1="174.5" x2="280.5" y1="320.4414" y2="320.4414"/></g><!--MD5=[0beb38d25f87035279933f69d2939b10]
+class RevisionAvion--><g id="elem_RevisionAvion"><rect codeLine="41" fill="#F1F1F1" height="97.4648" id="RevisionAvion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="128" x="305.5" y="15.5"/><ellipse cx="320.5" cy="31.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M324.1143,38 L316.3945,38 L316.3945,25.6069 L324.1143,25.6069 L324.1143,27.7651 L318.8433,27.7651 L318.8433,30.438 L323.6162,30.438 L323.6162,32.5962 L318.8433,32.5962 L318.8433,35.8418 L324.1143,35.8418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="334.5" y="36.791">RevisionAvion</text><line style="stroke:#181818;stroke-width:0.5;" x1="306.5" x2="432.5" y1="47.5" y2="47.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="311.5" y="65.0352">date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="311.5" y="81.5234">peutVoler</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="311.5" y="98.0117">type</text><line style="stroke:#181818;stroke-width:0.5;" x1="306.5" x2="432.5" y1="104.9648" y2="104.9648"/></g><!--MD5=[5f441cf2660a382657f170702f3c546a]
+class CompanieAerienne--><g id="elem_CompanieAerienne"><rect codeLine="50" fill="#F1F1F1" height="80.9766" id="CompanieAerienne" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="164" x="145.5" y="438"/><ellipse cx="160.5" cy="454" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M164.1143,460.5 L156.3945,460.5 L156.3945,448.1069 L164.1143,448.1069 L164.1143,450.2651 L158.8433,450.2651 L158.8433,452.938 L163.6162,452.938 L163.6162,455.0962 L158.8433,455.0962 L158.8433,458.3418 L164.1143,458.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="174.5" y="459.291">CompanieAerienne</text><line style="stroke:#181818;stroke-width:0.5;" x1="146.5" x2="308.5" y1="470" y2="470"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="151.5" y="487.5352">nom</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="151.5" y="504.0234">abreviation</text><line style="stroke:#181818;stroke-width:0.5;" x1="146.5" x2="308.5" y1="510.9766" y2="510.9766"/></g><!--MD5=[2b591347219e2d308bdf301555c4d62b]
+class Voyage--><g id="elem_Voyage"><rect codeLine="55" fill="#F1F1F1" height="64.4883" id="Voyage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="82" x="614.5" y="231"/><ellipse cx="629.5" cy="247" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M633.1143,253.5 L625.3945,253.5 L625.3945,241.1069 L633.1143,241.1069 L633.1143,243.2651 L627.8433,243.2651 L627.8433,245.938 L632.6162,245.938 L632.6162,248.0962 L627.8433,248.0962 L627.8433,251.3418 L633.1143,251.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="643.5" y="252.291">Voyage</text><line style="stroke:#181818;stroke-width:0.5;" x1="615.5" x2="695.5" y1="263" y2="263"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="620.5" y="280.5352">prix</text><line style="stroke:#181818;stroke-width:0.5;" x1="615.5" x2="695.5" y1="287.4883" y2="287.4883"/></g><!--MD5=[2f53d364b4e3b7d802afc29f72dce69f]
+class Billet--><g id="elem_Billet"><rect codeLine="59" fill="#F1F1F1" height="97.4648" id="Billet" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="65" x="531" y="15.5"/><ellipse cx="546" cy="31.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M549.6143,38 L541.8945,38 L541.8945,25.6069 L549.6143,25.6069 L549.6143,27.7651 L544.3433,27.7651 L544.3433,30.438 L549.1162,30.438 L549.1162,32.5962 L544.3433,32.5962 L544.3433,35.8418 L549.6143,35.8418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="560" y="36.791">Billet</text><line style="stroke:#181818;stroke-width:0.5;" x1="532" x2="595" y1="47.5" y2="47.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="537" y="65.0352">rang</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="537" y="81.5234">siege</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="537" y="98.0117">classe</text><line style="stroke:#181818;stroke-width:0.5;" x1="532" x2="595" y1="104.9648" y2="104.9648"/></g><!--MD5=[ff1aec9047438da9d3e23b981a7faa18]
+class Passager--><g id="elem_Passager"><rect codeLine="65" fill="#F1F1F1" height="146.9297" id="Passager" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="191" x="570" y="405"/><ellipse cx="630.75" cy="421" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M634.3643,427.5 L626.6445,427.5 L626.6445,415.1069 L634.3643,415.1069 L634.3643,417.2651 L629.0933,417.2651 L629.0933,419.938 L633.8662,419.938 L633.8662,422.0962 L629.0933,422.0962 L629.0933,425.3418 L634.3643,425.3418 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="651.25" y="426.291">Passager</text><line style="stroke:#181818;stroke-width:0.5;" x1="571" x2="760" y1="437" y2="437"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="576" y="454.5352">nom</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="576" y="471.0234">prenom</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="576" y="487.5117">dateNaissance</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="576" y="504">age</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="576" y="520.4883">numeroPassport</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="576" y="536.9766">dateAutorisationParentale</text><line style="stroke:#181818;stroke-width:0.5;" x1="571" x2="760" y1="543.9297" y2="543.9297"/></g><!--MD5=[3efb8c8a00f7f3128b29f99bea7c7795]
+link Vol to Aeroport--><g id="link_Vol_Aeroport"><path codeLine="74" d="M139.71,129.63 C128.34,151.37 115.67,175.61 104.31,197.34 " fill="none" id="Vol-Aeroport" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="106.1199" x2="99.0343" y1="202.5143" y2="198.8001"/><line style="stroke:#181818;stroke-width:1.0;" x1="107.5127" x2="100.4272" y1="199.8573" y2="196.1431"/><line style="stroke:#181818;stroke-width:1.0;" x1="104.4342" x2="100.72" y1="197.1145" y2="204.2"/><line style="stroke:#181818;stroke-width:1.0;" x1="139.577" x2="137.9614" y1="129.8814" y2="120.0128"/><line style="stroke:#181818;stroke-width:1.0;" x1="139.577" x2="148.5986" y1="129.8814" y2="125.5672"/><line style="stroke:#181818;stroke-width:1.0;" x1="139.577" x2="143.28" y1="129.8814" y2="122.79"/><ellipse cx="136.7998" cy="135.2" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="129.5" y="164.5684">arrive</text></g><!--MD5=[3efb8c8a00f7f3128b29f99bea7c7795]
+link Vol to Aeroport--><g id="link_Vol_Aeroport"><path codeLine="75" d="M106.51,122.7 C99.17,131.53 92.54,141.04 87.5,151 C80.43,164.96 76.13,181.07 73.54,196.62 " fill="none" id="Vol-Aeroport-1" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="76.9666" x2="69.0508" y1="200.8108" y2="199.6534"/><line style="stroke:#181818;stroke-width:1.0;" x1="77.4006" x2="69.4848" y1="197.8423" y2="196.685"/><line style="stroke:#181818;stroke-width:1.0;" x1="73.5874" x2="72.43" y1="196.2742" y2="204.19"/><line style="stroke:#181818;stroke-width:1.0;" x1="106.2892" x2="107.0133" y1="122.9456" y2="112.9719"/><line style="stroke:#181818;stroke-width:1.0;" x1="106.2892" x2="116.0667" y1="122.9456" y2="120.8481"/><line style="stroke:#181818;stroke-width:1.0;" x1="106.2892" x2="111.54" y1="122.9456" y2="116.91"/><ellipse cx="102.351" cy="127.4723" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="25" x="88.5" y="164.5684">part</text></g><!--MD5=[ccbaa2c8d4ccdd29c050b1e5dcdacb6c]
+link Vol to Avion--><g id="link_Vol_Avion"><path codeLine="76" d="M191.46,130.54 C196.57,149.16 202.16,169.56 207.38,188.62 " fill="none" id="Vol-Avion" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="212.2404" x2="204.525" y1="191.185" y2="193.2996"/><line style="stroke:#181818;stroke-width:1.0;" x1="211.4475" x2="203.732" y1="188.2917" y2="190.4063"/><line style="stroke:#181818;stroke-width:1.0;" x1="207.3254" x2="209.44" y1="188.3845" y2="196.1"/><line style="stroke:#181818;stroke-width:1.0;" x1="191.4846" x2="183.5834" y1="130.6255" y2="124.496"/><line style="stroke:#181818;stroke-width:1.0;" x1="191.4846" x2="195.1566" y1="130.6255" y2="121.324"/><line style="stroke:#181818;stroke-width:1.0;" x1="191.4846" x2="189.37" y1="130.6255" y2="122.91"/><ellipse cx="193.0706" cy="136.4121" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="201.5" y="164.5684">a</text></g><!--MD5=[c0340e19428f123b5e09bc2c849701aa]
+link Vol to OccurrenceVol--><g id="link_Vol_OccurrenceVol"><path codeLine="77" d="M217.97,128.78 C229.51,142.74 242.63,156.7 256.5,168 C288.03,193.68 327.71,215.11 362.05,230.99 " fill="none" id="Vol-OccurrenceVol" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="362.008" x2="371.7744" y1="230.9674" y2="228.8185"/><line style="stroke:#181818;stroke-width:1.0;" x1="362.008" x2="366.8056" y1="230.9674" y2="239.7415"/><line style="stroke:#181818;stroke-width:1.0;" x1="362.008" x2="369.29" y1="230.9674" y2="234.28"/><ellipse cx="356.5466" cy="228.483" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="212.4467" x2="218.6657" y1="128.2957" y2="123.2633"/><line style="stroke:#181818;stroke-width:1.0;" x1="214.3338" x2="220.5528" y1="130.6278" y2="125.5954"/><line style="stroke:#181818;stroke-width:1.0;" x1="218.0724" x2="213.04" y1="128.889" y2="122.67"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="257.5" y="164.5684">est réalisé</text></g><!--MD5=[89b40bf817172b64321783d5bec6c03d]
+link Avion to CompanieAerienne--><g id="link_Avion_CompanieAerienne"><path codeLine="79" d="M227.5,337.68 C227.5,367.73 227.5,401.66 227.5,428.57 " fill="none" id="Avion-CompanieAerienne" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="231.5" x2="223.5" y1="432.26" y2="432.26"/><line style="stroke:#181818;stroke-width:1.0;" x1="231.5" x2="223.5" y1="429.26" y2="429.26"/><line style="stroke:#181818;stroke-width:1.0;" x1="227.5" x2="227.5" y1="428.26" y2="436.26"/><line style="stroke:#181818;stroke-width:1.0;" x1="227.5" x2="221.5" y1="337.86" y2="329.86"/><line style="stroke:#181818;stroke-width:1.0;" x1="227.5" x2="233.5" y1="337.86" y2="329.86"/><line style="stroke:#181818;stroke-width:1.0;" x1="227.5" x2="227.5" y1="337.86" y2="329.86"/><ellipse cx="227.5" cy="343.86" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="228.5" y="371.5684">appartient</text></g><!--MD5=[564ea20c81718947a70be176d025d750]
+link Billet to Voyage--><g id="link_Billet_Voyage"><path codeLine="81" d="M589.78,121.28 C604.85,153.54 623.39,193.25 636.94,222.25 " fill="none" id="Billet-Voyage" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="642.0797" x2="634.8325" y1="223.8225" y2="227.2103"/><line style="stroke:#181818;stroke-width:1.0;" x1="640.8093" x2="633.5621" y1="221.1047" y2="224.4925"/><line style="stroke:#181818;stroke-width:1.0;" x1="636.7622" x2="640.15" y1="221.8927" y2="229.14"/><line style="stroke:#181818;stroke-width:1.0;" x1="589.9178" x2="581.0945" y1="121.5573" y2="116.8508"/><line style="stroke:#181818;stroke-width:1.0;" x1="589.9178" x2="591.9655" y1="121.5573" y2="111.7692"/><line style="stroke:#181818;stroke-width:1.0;" x1="589.9178" x2="586.53" y1="121.5573" y2="114.31"/><ellipse cx="592.4586" cy="126.9927" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="610.5" y="164.5684">est composé de</text></g><!--MD5=[2c0d9c8978b7657e9160aa0f7b7d1f61]
+link Billet to OccurrenceVol--><g id="link_Billet_OccurrenceVol"><path codeLine="82" d="M528.46,120.66 C513.34,144.69 495.56,172.93 479.89,197.83 " fill="none" id="Billet-OccurrenceVol" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="481.2053" x2="474.4326" y1="203.2526" y2="198.9947"/><line style="stroke:#181818;stroke-width:1.0;" x1="482.8021" x2="476.0294" y1="200.7128" y2="196.4549"/><line style="stroke:#181818;stroke-width:1.0;" x1="479.948" x2="475.69" y1="197.7373" y2="204.51"/><line style="stroke:#181818;stroke-width:1.0;" x1="528.262" x2="527.4405" y1="120.9927" y2="111.0265"/><line style="stroke:#181818;stroke-width:1.0;" x1="528.262" x2="537.5995" y1="120.9927" y2="117.4135"/><line style="stroke:#181818;stroke-width:1.0;" x1="528.262" x2="532.52" y1="120.9927" y2="114.22"/><ellipse cx="525.0686" cy="126.0723" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="509.5" y="164.5684">billet pour</text></g><!--MD5=[b4c91264d542aaf72f26c92c4e358573]
+link Voyage to Passager--><g id="link_Voyage_Passager"><path codeLine="84" d="M657.38,304.23 C658.59,330 660.2,364.36 661.67,395.7 " fill="none" id="Voyage-Passager" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="665.8398" x2="657.8485" y1="399.1785" y2="399.5502"/><line style="stroke:#181818;stroke-width:1.0;" x1="665.7005" x2="657.7091" y1="396.1817" y2="396.5534"/><line style="stroke:#181818;stroke-width:1.0;" x1="661.6583" x2="662.03" y1="395.3686" y2="403.36"/><line style="stroke:#181818;stroke-width:1.0;" x1="657.391" x2="651.0265" y1="304.5514" y2="296.8383"/><line style="stroke:#181818;stroke-width:1.0;" x1="657.391" x2="663.0135" y1="304.5514" y2="296.2817"/><line style="stroke:#181818;stroke-width:1.0;" x1="657.391" x2="657.02" y1="304.5514" y2="296.56"/><ellipse cx="657.6693" cy="310.5449" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="661.5" y="371.5684">achète</text></g><!--MD5=[67ce1bdf560c95682f90702db6ae92c7]
+link Aeroport to Pays--><g id="link_Aeroport_Pays"><path codeLine="86" d="M66.81,329.66 C65.02,361.54 62.9,399.19 61.25,428.51 " fill="none" id="Aeroport-Pays" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="65.035" x2="57.0472" y1="432.4372" y2="431.995"/><line style="stroke:#181818;stroke-width:1.0;" x1="65.2008" x2="57.213" y1="429.4418" y2="428.9996"/><line style="stroke:#181818;stroke-width:1.0;" x1="61.2622" x2="60.82" y1="428.2222" y2="436.21"/><line style="stroke:#181818;stroke-width:1.0;" x1="66.807" x2="61.2592" y1="329.8777" y2="321.5578"/><line style="stroke:#181818;stroke-width:1.0;" x1="66.807" x2="73.2408" y1="329.8777" y2="322.2222"/><line style="stroke:#181818;stroke-width:1.0;" x1="66.807" x2="67.25" y1="329.8777" y2="321.89"/><ellipse cx="66.4748" cy="335.8685" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="81" x="66.5" y="371.5684">est domicilié</text></g><!--MD5=[16a021df941bbae1830b4d3c2986cacd]
+link OccurrenceVol to DonneesTranspondeur--><g id="link_OccurrenceVol_DonneesTranspondeur"><path codeLine="88" d="M439.5,329.66 C439.5,361.54 439.5,399.19 439.5,428.51 " fill="none" id="OccurrenceVol-DonneesTranspondeur" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="439.5" x2="445.5" y1="428.21" y2="436.21"/><line style="stroke:#181818;stroke-width:1.0;" x1="439.5" x2="433.5" y1="428.21" y2="436.21"/><line style="stroke:#181818;stroke-width:1.0;" x1="439.5" x2="439.5" y1="428.21" y2="436.21"/><ellipse cx="439.5" cy="422.21" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="435.5" x2="443.5" y1="325.89" y2="325.89"/><line style="stroke:#181818;stroke-width:1.0;" x1="435.5" x2="443.5" y1="328.89" y2="328.89"/><line style="stroke:#181818;stroke-width:1.0;" x1="439.5" x2="439.5" y1="329.89" y2="321.89"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="139" x="440.5" y="371.5684">transmet des données</text></g><!--MD5=[54c5bbfc82dfac6c841aea4b2ab86407]
+link RevisionAvion to Avion--><g id="link_RevisionAvion_Avion"><path codeLine="90" d="M353.49,121.55 C347.62,137.34 340.02,153.99 330.5,168 C319,184.93 303.86,200.94 288.74,214.77 " fill="none" id="RevisionAvion-Avion" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="288.5885" x2="283.2471" y1="220.2771" y2="214.3215"/><line style="stroke:#181818;stroke-width:1.0;" x1="290.8219" x2="285.4804" y1="218.274" y2="212.3184"/><line style="stroke:#181818;stroke-width:1.0;" x1="288.8956" x2="282.94" y1="214.6285" y2="219.97"/><line style="stroke:#181818;stroke-width:1.0;" x1="353.3765" x2="350.4076" y1="121.8565" y2="112.3074"/><line style="stroke:#181818;stroke-width:1.0;" x1="353.3765" x2="361.7124" y1="121.8565" y2="116.3326"/><line style="stroke:#181818;stroke-width:1.0;" x1="353.3765" x2="356.06" y1="121.8565" y2="114.32"/><ellipse cx="351.364" cy="127.5089" fill="none" rx="4" ry="4" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="341.5" y="164.5684">a été révisé</text></g><!--MD5=[ce6aea33d3d21c11a28151b44131d487]
+@startuml erd_airline_reservation_logique
+
+entity Pays {
+    codeISO
+    descriptionFr
+}
+
+entity Aeroport {
+    code
+    nom
+    ville
+    pays
+}
+
+entity OccurrenceVol {
+    dateDepartPrevue
+    dateArriveePrevue
+    dateDepartReelle
+    dateArriveeReelle
+}
+
+entity Vol {
+    numero
+    dureeMoyenne
+    aeroportDepart
+    aeroportArrivee
+}
+
+entity DonneesTranspondeur {
+    date
+    coordonnees
+}
+
+entity Avion {
+    marque
+    numero
+    type
+    nombrePlaces
+    dateAchat
+}
+
+entity RevisionAvion {
+    date
+    peutVoler
+    type 
+    ' https://fr.wikipedia.org/wiki/Visites_de_maintenance_des_avions
+    ' A : / mois ou 500h de vol
+    ' C : 
+}
+
+entity CompanieAerienne {
+    nom
+    abreviation
+}
+
+entity Voyage {
+    prix
+}
+
+entity Billet {
+    rang
+    siege
+    classe
+}
+
+entity Passager {
+    nom
+    prenom
+    dateNaissance
+    age
+    numeroPassport
+    dateAutorisationParentale
+}
+
+Vol }o- -|| Aeroport: arrive
+Vol }o- -|| Aeroport: part
+Vol }o- -|| Avion: a
+Vol ||- -o{ OccurrenceVol: est réalisé
+
+Avion }o- -|| CompanieAerienne: appartient
+
+Billet }o- -|| Voyage: est composé de
+Billet }o- -|| OccurrenceVol: billet pour
+
+Voyage }o- -|| Passager: achète
+
+Aeroport }o- -|| Pays: est domicilié
+
+OccurrenceVol ||- -o{ DonneesTranspondeur: transmet des données
+
+RevisionAvion }o- -|| Avion: a été révisé
+
+@enduml
+
+@startuml erd_airline_reservation_logique
+
+entity Pays {
+    codeISO
+    descriptionFr
+}
+
+entity Aeroport {
+    code
+    nom
+    ville
+    pays
+}
+
+entity OccurrenceVol {
+    dateDepartPrevue
+    dateArriveePrevue
+    dateDepartReelle
+    dateArriveeReelle
+}
+
+entity Vol {
+    numero
+    dureeMoyenne
+    aeroportDepart
+    aeroportArrivee
+}
+
+entity DonneesTranspondeur {
+    date
+    coordonnees
+}
+
+entity Avion {
+    marque
+    numero
+    type
+    nombrePlaces
+    dateAchat
+}
+
+entity RevisionAvion {
+    date
+    peutVoler
+    type 
+}
+
+entity CompanieAerienne {
+    nom
+    abreviation
+}
+
+entity Voyage {
+    prix
+}
+
+entity Billet {
+    rang
+    siege
+    classe
+}
+
+entity Passager {
+    nom
+    prenom
+    dateNaissance
+    age
+    numeroPassport
+    dateAutorisationParentale
+}
+
+Vol }o- -|| Aeroport: arrive
+Vol }o- -|| Aeroport: part
+Vol }o- -|| Avion: a
+Vol ||- -o{ OccurrenceVol: est réalisé
+
+Avion }o- -|| CompanieAerienne: appartient
+
+Billet }o- -|| Voyage: est composé de
+Billet }o- -|| OccurrenceVol: billet pour
+
+Voyage }o- -|| Passager: achète
+
+Aeroport }o- -|| Pays: est domicilié
+
+OccurrenceVol ||- -o{ DonneesTranspondeur: transmet des données
+
+RevisionAvion }o- -|| Avion: a été révisé
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 13:01:30 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: CA
+--></g></svg>
