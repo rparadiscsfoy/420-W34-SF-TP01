@@ -48,7 +48,7 @@ entity RevisionAvion {
     ' C : 
 }
 
-entity CompanieAerienne {
+entity CompagnieAerienne {
     nom
     abreviation
 }
@@ -77,7 +77,7 @@ Vol }o--|| Aeroport: part
 'Vol }o--|| Avion: a
 Vol ||--o{ OccurrenceVol: est réalisé
 
-Avion }o--|| CompanieAerienne: appartient
+Avion }o--|| CompagnieAerienne: appartient
 
 Billet }o--|| Voyage: est composé de
 Billet }o--|| OccurrenceVol: billet pour
