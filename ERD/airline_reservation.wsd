@@ -74,7 +74,7 @@ entity Passager {
 
 Vol }o--|| Aeroport: arrive
 Vol }o--|| Aeroport: part
-Vol }o--|| Avion: a
+'Vol }o--|| Avion: a
 Vol ||--o{ OccurrenceVol: est réalisé
 
 Avion }o--|| CompanieAerienne: appartient
@@ -87,6 +87,8 @@ Voyage }o--|| Passager: achète
 Aeroport }o--|| Pays: est domicilié
 
 OccurrenceVol ||--o{ DonneesTranspondeur: transmet des données
+OccurrenceVol }o--|| Avion: a
+
 
 RevisionAvion }o--|| Avion: a été révisé
 
