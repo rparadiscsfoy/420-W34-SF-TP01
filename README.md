@@ -34,6 +34,12 @@ Votre analyste vous a indiqué que deux informations ne sont pas forcément rens
 - il n'y a pas de numéro de passport pour les vols intérieurs
 - la date d'autorisation parentale est seulement requise pour les mineurs
 
+Une lecture rapide du diagramme peut se résumer ainsi :
+
+- Un voyage est composé d'un ou plusieurs billets (étapes). Un billet est associé à une occurrence de vol. Un voyage peut être un aller simple ou un aller-retour. Quand on parle de temps de vol, on parle du temps de vol cumulé estimé. La durée d'un voyage est la durée entre le départ du premier vol et l'arrivée du dernier vol. (Réelle ou estimée si le voyage n'est pas terminé). La durée de vol est la somme des durées de vol de chaque étape sans compter les durées entre les vols.
+- Un voyageur peut être un enfant ou un adulte. Un enfant doit avoir une autorisation parentale (date).
+- Une occurrence de vol est associée à un vol. L'occurrence de vol est le vol réel. Le vol est la définition du vol (numéro, aéroport de départ, aéroport d'arrivée) et il peut donc y avoir plusieurs occurrence de ce vol à des dates différentes.
+
 ## 3 - À réaliser
 
 - Modifier le fichier AUTHORS.md (-10 points si non fait)
@@ -45,16 +51,16 @@ Votre analyste vous a indiqué que deux informations ne sont pas forcément rens
 - Créer des données de test (10 points)
 - Écrire les requêtes suivantes :
   - Afficher l'ensemble des vols disponibles pour chaque compagnie aérienne (5 points)
-  - Afficher l'ensemble des vols qui n'ont pas eu d'occurrence depuis plus de 60 jours (5 points)
-  - Afficher le nombre de voyageurs pour un vol donné (5 points)
-  - Afficher les étapes d'un voyage pour un client donné (5 points)
-  - Afficher les étapes de voyage pour un client avec une numérotation des étapes dans l'ordre et l'addition des durées estimées à la fin de l'étape courante (10 points)
-  - Afficher le voyage le plus long pour le mois courant (5 points)
-  - Afficher la liste des voyages pour la journée courante (5 points)
-  - Afficher le nombre de voyages pour la journée courante (5 points)
-  - Afficher les voyages non terminés (5 points)
-  - Afficher le nombre de voyageurs ayant un et un seul voyage intérieur (Donc une étape) pour une date précise (année, mois et jour) (5 points)
   - Afficher les pays par ordre descendant du nombre d'aéroports (5 points)
+  - Afficher l'ensemble des vols qui n'ont pas eu d'occurrence depuis plus de 60 jours (5 points)
+  - Afficher le nombre de voyageurs pour une occurrence de vol donnée (5 points)
+  - Afficher les étapes d'un voyage pour un client donné (5 points)
+  - Afficher les étapes de voyage pour un client avec une numérotation des étapes dans l'ordre et l'addition des durées en vol (hors temps de transit) estimées à la fin de l'étape courante (10 points)
+  - Afficher le voyage le plus long pour le mois courant. Un voyage est considéré dans le mois courant si son premier billet à une date de départ prévue dans le mois (5 points)
+  - Afficher la liste des voyages pour la journée courante (ie qui débute ou a débuté le voyage et qui fini le voyage aujourd'hui ou va finir le voyage plus tard) (5 points)
+  - Afficher le nombre de voyageurs pour la journée courante et un aéroport précis  (5 points)
+  - Afficher les voyages non terminés (ie il peut ne pas avoir débuté) (5 points)
+  - Afficher le nombre de voyageurs ayant un et un seul billet pour un voyage intérieur (Donc une étape) pour une date précise (année, mois et jour) (5 points)
 
 ## 4 - Contraintes
 

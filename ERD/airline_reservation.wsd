@@ -5,6 +5,14 @@ entity Pays {
     descriptionFr
 }
 
+entity Avion {
+    marque
+    numero
+    type
+    nombrePlaces
+    dateAchat
+}
+
 entity Aeroport {
     code
     nom
@@ -29,14 +37,6 @@ entity Vol {
 entity DonneesTranspondeur {
     date
     coordonnees
-}
-
-entity Avion {
-    marque
-    numero
-    type
-    nombrePlaces
-    dateAchat
 }
 
 entity RevisionAvion {
@@ -74,7 +74,7 @@ entity Passager {
 
 Vol }o--|| Aeroport: arrive
 Vol }o--|| Aeroport: part
-'Vol }o--|| Avion: a
+Vol }o--|| Avion: a
 Vol ||--o{ OccurrenceVol: est réalisé
 
 Avion }o--|| CompagnieAerienne: appartient
@@ -87,8 +87,6 @@ Voyage }o--|| Passager: achète
 Aeroport }o--|| Pays: est domicilié
 
 OccurrenceVol ||--o{ DonneesTranspondeur: transmet des données
-OccurrenceVol }o--|| Avion: a
-
 
 RevisionAvion }o--|| Avion: a été révisé
 
