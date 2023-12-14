@@ -69,7 +69,7 @@ entity Passager {
     dateNaissance
     age
     numeroPassport
-    dateAutorisationParentale
+'    dateAutorisationParentale
 }
 
 Vol }o--|| Aeroport: arrive
