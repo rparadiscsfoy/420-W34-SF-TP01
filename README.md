@@ -16,10 +16,7 @@
 
 ### 1.2 - À remettre sur la plateforme d'enseignement Léa
 
-- Votre code source SQL dans le répertoire src/SQL sur Git
-- Le contenu de ce répertoire zippé sur Léa avant la date indiquée
-
-En résumé, vous pouvez simplement archiver le contenu de votre dépôt Git qui devrait contenir tous ces éléments au moment de la remise.
+Vous devez simplement archiver le contenu de votre dépôt Git qui devrait contenir tous ces éléments au moment de la remise.
 
 ## 2 - Contexte
 
